@@ -31,18 +31,16 @@ p {
   margin: 0 auto;
   font-size: 15px;
   padding: 15px;
+  border-radius: 20px;
 }
 
 .QR-Code {
   background-color: red;
   height: 50%;
+  border-radius: 10px;
 }
 
-.card-border-radius {
-  border-radius: 15px;
-}
-
-.qr-text h1 {
+.qr-text h2 {
   color: #1f3251;
 }
 .qr-text p {

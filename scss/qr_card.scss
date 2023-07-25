@@ -5,17 +5,18 @@
   margin: 0 auto;
   font-size: 15px;
   padding: 15px;
+  border-radius: 20px;
 }
 .QR-Code {
   background-color: red;
   height: 50%;
+  border-radius: 10px;
 }
-.card-border-radius {
-  border-radius: 15px;
-}
+
 .qr-text {
-  h1 {
+  h2 {
     color: $Dark-blue;
+    // margin-top: 25px;
   }
   p {
     color: $paynes-gray;
