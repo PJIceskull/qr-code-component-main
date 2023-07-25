@@ -14,8 +14,11 @@
 }
 
 .qr-text {
+  text-align: center;
+  h1,
   h2 {
     color: $Dark-blue;
+    font-weight: 700;
     // margin-top: 25px;
   }
   p {

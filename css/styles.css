@@ -40,8 +40,13 @@ p {
   border-radius: 10px;
 }
 
+.qr-text {
+  text-align: center;
+}
+.qr-text h1,
 .qr-text h2 {
   color: #1f3251;
+  font-weight: 700;
 }
 .qr-text p {
   color: #525a6f;
