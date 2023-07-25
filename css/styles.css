@@ -30,14 +30,14 @@ p {
   width: 320px;
   margin: 0 auto;
   font-size: 15px;
-  padding: 15px;
+  padding: 20px;
   border-radius: 20px;
 }
 
 .QR-Code {
   background-color: red;
-  height: 50%;
-  border-radius: 10px;
+  height: 55%;
+  border-radius: 12px;
 }
 
 .qr-text {
