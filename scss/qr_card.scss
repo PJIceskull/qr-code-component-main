@@ -3,13 +3,15 @@
   height: $card-height;
   width: $card-width;
   margin: 0 auto;
-  border-radius: 18px;
   font-size: 15px;
+  padding: 15px;
 }
 .QR-Code {
   background-color: red;
   height: 50%;
-  border-radius: 20px;
+}
+.card-border-radius {
+  border-radius: 15px;
 }
 .qr-text {
   h1 {
