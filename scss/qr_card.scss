@@ -4,4 +4,18 @@
   width: $card-width;
   margin: 0 auto;
   border-radius: 18px;
+  font-size: 15px;
+}
+.QR-Code {
+  background-color: red;
+  height: 50%;
+  border-radius: 20px;
+}
+.qr-text {
+  h1 {
+    color: $Dark-blue;
+  }
+  p {
+    color: $paynes-gray;
+  }
 }

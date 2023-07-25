@@ -30,6 +30,20 @@ p {
   width: 320px;
   margin: 0 auto;
   border-radius: 18px;
+  font-size: 15px;
+}
+
+.QR-Code {
+  background-color: red;
+  height: 50%;
+  border-radius: 20px;
+}
+
+.qr-text h1 {
+  color: #1f3251;
+}
+.qr-text p {
+  color: #525a6f;
 }
 
 /*# sourceMappingURL=styles.css.map */
