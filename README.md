@@ -8,6 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
+  - [Planning](#planning)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -39,6 +40,14 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [https://pjiceskull.github.io/qr-code-component-main/](https://pjiceskull.github.io/qr-code-component-main/)
 
 ## My process
+
+### Planning
+
+When coding design prototypes I try to break down important elements individually. This is a beneficial skill that makes the process of coding the look of a website smoother. The first thing I look at is the website’s color palette. How many colors are there and what are they being used for?
+Usually, I’ll use a color palette generator to get color themes or I’ll use a color picker tool to select all the colors. However, Frontend Mentor was able to provide me with a style guideline for the website. This guideline mentions what fonts, colors, and dimensions of the website were designed for.
+
+The next step is planning how I should build the website’s layout before I before coding. Looking at the design files, I’ll need to create a div that contains the content of the QR Code card. As shown in the design files, the card is positioned at the center of the screen. Inside the card, we’ll have two more div containers, one will hold the QR code, and the other div will contain the text. The text seems to be in a sans-serif font and in different font sizes. The top text is larger, bolder, and has a navy blue color. Meanwhile, the bottom text is smaller and seems to share a smaller font color with the background. Another thing I notice is that both the card box and the QR code have a border radius.
+I named the class of our main container div, “qr-card” since this div will have a white background color for our card. When styling content for a website, I prefer to use a preprocessing language like SASS for a better workflow. Inside our “qr-card” container div I created two more divs. One of the biggest challenges when translating a design is making sure that everything is in the right place.
 
 ### Built with
 
