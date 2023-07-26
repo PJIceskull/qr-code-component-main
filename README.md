@@ -13,9 +13,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+<!-- - [Acknowledgments](#acknowledgments) -->
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+<!-- **Note: Delete this note and update the table of contents based on what sections you keep.** -->
 
 ## Overview
 
@@ -36,13 +36,15 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://pjiceskull.github.io/qr-code-component-main/](https://pjiceskull.github.io/qr-code-component-main/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+<!-- - Semantic HTML5 markup -->
+
+- HTML markup
 - CSS custom properties
 - Custom CSS Properties
   - Flexbox
