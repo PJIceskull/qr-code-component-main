@@ -93,9 +93,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [ColorDesigner.io](https://colordesigner.io/)
-- [Coolors.co](https://coolors.co/) -
-- [Google Fonts](https://fonts.google.com/specimen/Outfit) -
+- [ColorDesigner.io](https://colordesigner.io/) - As a reference for the website’s color palette.
+- [Coolors.co](https://coolors.co/) - For giving me the names of the value of the colors I could use and creating them as variables.
+- [Google Fonts](https://fonts.google.com/specimen/Outfit) - For the "Outfit" font family.
 - [W3Schools](https://www.w3schools.com/cssref/css3_pr_box-shadow.php) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
