@@ -35,9 +35,11 @@ p {
 }
 
 .QR-Code {
-  background-color: red;
   height: 55%;
   border-radius: 12px;
+  background-image: url("../images/image-qr-code.png");
+  background-size: cover;
+  background-position: center;
 }
 
 .qr-text {
