@@ -44,40 +44,35 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Custom CSS Properties
+  - Flexbox
+  - Box-shadow
+- [SCSS](https://sass-lang.com/) - Preprocessor Language for CSS
+- [Visual Studio Code](https://code.visualstudio.com/) - Code Editor
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+<!-- **Note: These are just examples. Delete this note and replace the list above with your own choices** -->
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- Make sure to always read over all of your files as they may contain important guidelines and documentation.
+- Box shadow properties and how to manipulate its values.
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+Some Code I’m proud off
 
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.qr-card {
+  background-color: #ffffff;
+  height: $card-height;
+  width: $card-width;
+  margin: 0 auto;
+  font-size: 15px;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 15px 15px 30px rgba(82, 90, 111, 0.4);
 }
 ```
 
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+<!-- **Note: Delete this note and the content within this section and replace with your own learnings.** -->
 
 ### Continued development
 
