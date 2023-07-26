@@ -42,6 +42,7 @@ p {
 
 .qr-text {
   text-align: center;
+  margin-top: 25px;
 }
 .qr-text h1,
 .qr-text h2 {
