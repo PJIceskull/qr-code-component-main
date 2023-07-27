@@ -81,9 +81,8 @@ Some Code I’m proud of
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Overall I found this challenge fun to do and I’ve learned new things in the process. However, I also realize that I have much more room to grow. As of now, I want to learn other frameworks like React so I’m very interested in doing projects. I also want these projects to also act as a way to learn a framework as well.
+I wouldn’t mind more projects that involve animation and user interaction.
 
 ### Useful resources
 
