@@ -30,7 +30,7 @@ This is a challenge from Frontend Mentor. The challenge is to build out this QR 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-with-flexbox-4DPGmjqUef](https://www.frontendmentor.io/solutions/responsive-qr-code-with-flexbox-4DPGmjqUef)
 - Live Site URL: [https://pjiceskull.github.io/qr-code-component-main/](https://pjiceskull.github.io/qr-code-component-main/)
 
 ## My process
