@@ -68,7 +68,7 @@ I named the class of our main container div, “qr-card” since this div will h
 - Make sure to always read over all of your files as they may contain important guidelines and documentation.
 - Box shadow properties and how to manipulate its values.
 
-Some Code I’m proud off
+Some Code I’m proud of
 
 ```css
 .qr-card {
